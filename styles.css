@@ -88,6 +88,11 @@ section
 header
 {
     height: 120px;
+    position : fixed;
+    background-color: #FFF;
+    width: 100%;
+
+
 }
 
 header h1
@@ -95,6 +100,8 @@ header h1
     float: left;
     margin-top: 32px;
     margin-left: 50px;
+    position : fixed;
+
 }
 
 header nav
